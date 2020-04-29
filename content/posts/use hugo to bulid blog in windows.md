@@ -1,6 +1,28 @@
 ---
 title: "Windows+Hugo+GithubPage搭建简单个人博客"
 date: 2020-04-17T12:52:51+08:00
+lastmod: 2020-04-29T12:54:28+08:00
+draft: false
+author: "ShaoPu"
+authorLink: "https://github.com/Shaopus"
+description: "搭建个人博客"
+license: ""
+
+tags: [记录]
+categories: [blog]
+hiddenFromHomePage: false
+
+featuredImage: ""
+featuredImagePreview: ""
+
+toc: true
+autoCollapseToc: true
+math: true
+lightgallery: true
+linkToMarkdown: true
+share:
+  enable: true
+comment: true
 ---
 
 
